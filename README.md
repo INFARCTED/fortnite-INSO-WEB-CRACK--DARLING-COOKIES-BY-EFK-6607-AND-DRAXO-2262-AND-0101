@@ -6,7 +6,7 @@ Inso Web = BIG SCAMMER/SKID
 INKA WEB = BIG SCAMMER/SKID
 Yûi Web = BIG SCAMMER/SKID
 Ezechiel = BIG SCAMMER/SKID
-HE SAY UNDETECTED LOL
+HE SAYS UNDETECTED LOL
 
 SOURCE [INSO WEB/INKA WEB/Yûi Web/Ezechiel] use : https://github.com/AgentFN/Fortnite-External-Source
 
