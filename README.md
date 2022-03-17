@@ -48,3 +48,6 @@ EZ <3
 43 55
 
 <t'(
+
+
+u can update the cheat with IDA just u can change UWORLD and address W2S etc...
